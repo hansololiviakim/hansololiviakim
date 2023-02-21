@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&reversal=true&text=ONE%20LIFE%20２%20LIVE&desc=It%20means%20that%20life%20is%20one%20and%20only,%20but%20it%20also%20means%20everyone%20can%20get%20a%20second%20chance%20in%20life.&animation=fadeIn&fontSize=70&fontAlignY=35&descSize=15&descAlignY=55)
 
-<img align="right" height="250" src="https://tistory1.daumcdn.net/tistory/4873342/attach/8ec492ac027542d49ed7c2bb94f26630" />
+<img align="right" height="250" src="https://tistory1.daumcdn.net/tistory/4873342/attach/49bbb496926440bbb8f85f9e3a7e1054" />
   
-## &nbsp; :bookmark_tabs: Stacks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+## &nbsp; :bookmark_tabs: Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
 ![Git](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <br/>
