@@ -20,8 +20,6 @@
 ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
-
 
 <br/>
 
