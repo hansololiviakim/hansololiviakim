@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HANSOL%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=is%20someone%20who%20feels%20happy%20when%20growing&descAlignY=51&descAlign=59.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HANSOL%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FE%20Dev.%20interested%20in%20efficiency,%20clean%20code,%20UX&descAlignY=52&descAlign=58)
 
 </div>
 
@@ -16,10 +16,12 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)  
-![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-006FED?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-AA3CBC?style=for-the-badge&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+
 
 <br/>
 
