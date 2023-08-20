@@ -7,11 +7,13 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansololiviakim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hansololiviakim&theme=dracula&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 
-### 🖥️ 𝑺𝑲𝑰𝑳𝑳𝑺 🖥️ 
+
+
+## 🖥️ 𝑺𝑲𝑰𝑳𝑳𝑺 🖥️ 
   
----
+
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -20,6 +22,7 @@
 ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 
 <br/>
 
@@ -34,7 +37,7 @@
 
 <div align="center">
   
-### 📞 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 📞
+## 📞 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 📞
   
 <br/>
 
