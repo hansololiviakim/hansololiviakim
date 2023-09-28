@@ -1,45 +1,58 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HANSOL%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FE%20Dev.%20interested%20in%20efficiency,%20clean%20code,%20UX&descAlignY=52&descAlign=58)
-  
-  </div>
-  
-  <div align="center">
-  
-  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hansololiviakim&theme=dracula&langs_count=8&layout=compact&exclude_repo=algorithm,productive-box&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  
-  ## 🖥️ 𝑺𝑲𝑰𝑳𝑳𝑺 🖥️ 
-  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-006FED?style=for-the-badge&logo=TypeScript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-  ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
-  
-  <br/>
-  
-  ---
-  
-  <br/>
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hansololiviakim&show_icons=true&theme=dracula&hide="/>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HANSOL%20OLIVIA%20KIM&fontSize=60&animation=fadeIn&fontAlignY=35&desc=FE%20Dev.%20interested%20in%20UX,%20efficiency,%20clean%20code&descAlignY=50&descAlign=59.5)
 
 </div>
 
+
 <div align="center">
   
-  ## 📞 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 📞
-    
+  <table>
+    <tbody>
+      <tr align="center">
+        <td>𝖲𝗍𝗒𝗅𝗂𝗇𝗀</td>
+        <td>
+          <img src="https://img.shields.io/badge/SCSS-C76395?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS">
+          <img src="https://img.shields.io/badge/styled--components-974C91?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled-Components">
+        </td>
+      </tr>
+      <tr align="center">
+        <td>𝖯𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾</td>
+        <td>
+          <img src="https://img.shields.io/badge/JavaScript-DB9D22?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+        </td>
+      </tr>
+      <tr align="center">
+        <td>𝖫𝗂𝖻𝗋𝖺𝗋𝗒 & 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄</td>
+        <td>
+          <img src="https://img.shields.io/badge/React.js-18BCEE?style=for-the-badge&logo=React&logoColor=white" alt="React.js">
+          <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
+        </td>
+      </tr>
+      <tr align="center">
+        <td>𝖵𝖾𝗋𝗌𝗂𝗈𝗇 𝖢𝗈𝗇𝗍𝗋𝗈𝗅</td>
+        <td>
+          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+
+
+<div align="center">
+
+  <br/>
+
+  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://www.hansololiviakim.com)　|　[𝖡𝗅𝗈𝗀](https://oliviakim.tistory.com)　|　[𝖤-𝗆𝖺𝗂𝗅](mailto:dev.hansolkim@gmail.com)
+
   <br/>
   
-  [![Blog](https://img.shields.io/badge/-Tistory-6A6B6D?style=for-the-badge&logo=Tistory&logoColor=white)](https://oliviakim.tistory.com/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hansolkim@gmail.com)
-  
+  ![Hits](https://komarev.com/ghpvc/?username=hansololiviakim&&style=flat&color=lightgrey)
+
   <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=hansololiviakim&&style=flat&color=lightgrey" align="center" />
 
 </div>
