@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HANSOL%20OLIVIA%20KIM&fontSize=60&animation=fadeIn&fontAlignY=35&desc=FE%20Dev.%20interested%20in%20UX,%20efficiency,%20clean%20code&descAlignY=50&descAlign=59.5)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HANSOL%20OLIVIA%20KIM&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Transitioning%20from%20FE%20Developer%20to%20Engineer&descAlignY=50&descAlign=60.5)
 
 </div>
 
