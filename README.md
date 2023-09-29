@@ -10,31 +10,32 @@
   <table>
     <tbody>
       <tr align="center">
-        <td>𝖲𝗍𝗒𝗅𝗂𝗇𝗀</td>
+        <td>𝖯𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾</td>
         <td>
-          <img src="https://img.shields.io/badge/SCSS-C76395?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS">
-          <img src="https://img.shields.io/badge/styled--components-974C91?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled-Components">
-        </td>
-      </tr>
-      <tr align="center">
-        <td>𝖯𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾</td>
-        <td>
-          <img src="https://img.shields.io/badge/JavaScript-DB9D22?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/JavaScript-DB9D22?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"> 
+          <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"> 
+          <img src="https://img.shields.io/badge/python-326998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         </td>
       </tr>
       <tr align="center">
         <td>𝖫𝗂𝖻𝗋𝖺𝗋𝗒 & 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄</td>
         <td>
-          <img src="https://img.shields.io/badge/React.js-18BCEE?style=for-the-badge&logo=React&logoColor=white" alt="React.js">
+          <img src="https://img.shields.io/badge/React.js-18BCEE?style=for-the-badge&logo=React&logoColor=white" alt="React.js"> 
           <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
         </td>
       </tr>
       <tr align="center">
-        <td>𝖵𝖾𝗋𝗌𝗂𝗈𝗇 𝖢𝗈𝗇𝗍𝗋𝗈𝗅</td>
+        <td>𝖲𝗍𝗒𝗅𝗂𝗇𝗀</td>
         <td>
-          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          <img src="https://img.shields.io/badge/SCSS-C76395?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS"> 
+          <img src="https://img.shields.io/badge/styled--components-974C91?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled-Components">
+        </td>
+      </tr>
+      <tr align="center">
+        <td>𝖲𝖰𝖫 & 𝖭𝗈𝖲𝖰𝖫</td>
+        <td>
+          <img src="https://img.shields.io/badge/oracle-C94C3A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> 
+          <img src="https://img.shields.io/badge/mongodb-4EA542?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         </td>
       </tr>
     </tbody>
