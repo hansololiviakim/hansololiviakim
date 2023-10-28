@@ -20,8 +20,10 @@
       <tr align="center">
         <td>𝖫𝗂𝖻𝗋𝖺𝗋𝗒 & 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄</td>
         <td>
-          <img src="https://img.shields.io/badge/React.js-18BCEE?style=for-the-badge&logo=React&logoColor=white" alt="React.js"> 
-          <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
+          <img src="https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white" alt="React.js">
+          <img src="https://img.shields.io/badge/Next-4F90E9?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
+          <img src="https://img.shields.io/badge/Nuxt-3A7C6D?style=for-the-badge&logo=Nuxt.js&logoColor=white" alt="Nuxt.js">
         </td>
       </tr>
       <tr align="center">
