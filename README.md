@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/React-00D1F7?style=for-the-badge&logo=React&logoColor=white" alt="React.js">
           <img src="https://img.shields.io/badge/Next-212121?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
           <img src="https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
-          <img src="https://img.shields.io/badge/Nuxt-3A7C6D?style=for-the-badge&logo=Nuxt.js&logoColor=white" alt="Nuxt.js">
+          <img src="https://img.shields.io/badge/Nuxt-3A7C6D?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt.js">
         </td>
       </tr>
       <tr align="center">
@@ -37,7 +37,7 @@
       <tr align="center">
         <td>𝖲𝖰𝖫 & 𝖭𝗈𝖲𝖰𝖫</td>
         <td>
-          <img src="https://img.shields.io/badge/oracle-C94C3A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> 
+          <img src="https://img.shields.io/badge/supabase-3ED18F?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> 
           <img src="https://img.shields.io/badge/mongodb-4EA542?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         </td>
       </tr>
