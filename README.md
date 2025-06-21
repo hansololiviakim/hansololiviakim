@@ -29,9 +29,9 @@
       <tr align="center">
         <td>𝖲𝗍𝗒𝗅𝗂𝗇𝗀</td>
         <td>
+          <img src="https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
           <img src="https://img.shields.io/badge/SCSS-C76395?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS"> 
           <img src="https://img.shields.io/badge/styled--components-974C91?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled-Components">
-          <img src="https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
         </td>
       </tr>
       <tr align="center">
@@ -51,7 +51,7 @@
 
   <br/>
 
-  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://www.hansololiviakim.com)　|　[𝖡𝗅𝗈𝗀](https://oliviakim.tistory.com)　|　[𝖤-𝗆𝖺𝗂𝗅](mailto:dev.hansolkim@gmail.com)
+  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://hansololiviakim.notion.site)　|　[𝖡𝗅𝗈𝗀](https://oliviakim.tistory.com)　|　[𝖤-𝗆𝖺𝗂𝗅](mailto:dev.hansolkim@gmail.com)
 
   <br/>
   
