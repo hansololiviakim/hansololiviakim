@@ -51,7 +51,7 @@
 
   <br/>
 
-  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://hansololiviakim.notion.site)　|　[𝖡𝗅𝗈𝗀](https://oliviakim.tistory.com)　|　[𝖤-𝗆𝖺𝗂𝗅](mailto:dev.hansolkim@gmail.com)
+  **✨ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚!**　　[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://hansololiviakim.com)　|　[𝖡𝗅𝗈𝗀](https://oliviakim.tistory.com)　|　[𝖤-𝗆𝖺𝗂𝗅](mailto:dev.hansolkim@gmail.com)
 
   <br/>
   
