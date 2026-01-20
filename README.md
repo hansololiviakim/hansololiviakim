@@ -14,6 +14,7 @@
 
 ## 📨 Contact
 
+- [Online Resume](https://www.figma.com/design/x6eS24Q8A4AGDWikkq7diw/%EA%B9%80%ED%95%9C%EC%86%94-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=L1HNZZnkWaQjc2z7-1)
 - Email: [dev.hansolkim@gmail.com](mailto:dev.hansolkim@gmail.com)
 
 
